@@ -1,15 +1,6 @@
-I am Bharath 👋
-
-
-
-Here are some ideas to get you started:
-
+     Hallo  👋 thats means hello in German
 
 - 🌱 I’m currently learning ...MERN stack
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 👯 I’m looking to collaborate on ...Yesss!
 - ⚡ Fun fact: ...I Declare Variables not Wars
 
